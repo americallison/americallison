@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @americallison
-- 👀 I’m interested in coding and knowledge sharng
+- 👀 I’m interested in coding and knowledge sharing
 - 🌱 I’m currently learning Python, HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on a fitness project
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me? Email: americ474@gmail.com, WhatsApp: +231880832727
 
 <!---
